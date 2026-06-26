@@ -1,0 +1,15 @@
+{
+  "name": "alpha-omega-glass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Alpha and Omega Glass Company LLC — bilingual (EN/ES) marketing website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
